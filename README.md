@@ -1,2 +1,2 @@
 # Damier
-Jolie Damier
+Joli Damier
